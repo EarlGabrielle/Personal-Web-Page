@@ -1,0 +1,57 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{
+	margin: 50px;
+	background: url("bg.jpeg");
+background-size: cover;
+}
+.About p{
+	font-size: 25px;
+	width: 75%;
+}
+.title{
+	font-size: 50px;
+	align-items: center;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.about{
+		margin-top: 25px;
+	margin-bottom: 25px;
+}
+.education{
+		margin-top: 25px;
+	margin-bottom: 25px;
+}
+.content p{
+	font-size: 25px;
+	width: 75%;
+}
+.skills{
+margin-top: 20px;
+	margin-bottom: 20px;
+}
+.abilities{
+	font-size: 25px;
+}
+#message{
+	height: 100px;
+	width: 250px;
+}
+#contact{
+	background: rgba(76, 175, 80, 0.3);
+	width: 50%;
+	height: 50%;
+}
+#contact h2{
+	text-align: center;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+.transparent{
+	margin: 50px 50px 50px 50px;
+}
